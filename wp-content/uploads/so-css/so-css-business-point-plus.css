@@ -1,0 +1,98 @@
+#masthead.site-header {
+  opacity: 1;
+  padding-bottom: 6px;
+  margin-bottom: 15px;
+}
+
+#home-page-widget-area .widget-title {
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+#pt-theme-addon-testimonials-1.widget.pt_theme_addon_widget_testimonials {
+  margin-bottom: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.double_space {
+  line-height: 200%;
+}
+
+#pt-theme-addon-portfolio-1.widget.pt_theme_addon_widget_portfolio {
+  color: white;
+}
+
+#business-point-services-1.widget.business_point_widget_services {
+  padding-top: 5px;
+  padding-bottom: 40px;
+  background-color: #f1f1f1;
+}
+
+#pt-theme-addon-our-team-1.widget.pt_theme_addon_widget_our_team {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.main-navigation ul li.current-menu-item a {
+  font-size: 24px;
+}
+
+.main-navigation ul li a:hover {
+  font-size: 24px;
+}
+
+.main-navigation ul li a {
+  padding-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.wpsisac-slick-variable-wrp.wpsisac-clearfix.background {
+  border-top-width: 3px;
+  border-top-style: solid;
+  border-top-color: #B1B0B7;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: #B1B0B7;
+}
+
+p {
+  color: #000000;
+}
+
+.call-to-action-content {
+  color: white;
+}
+
+@media only screen and (min-width: 768px) {
+  #top-bar.top-header {
+    height: 80px;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .top-left {
+    font-size: 38px;
+    margin-bottom: 0px;
+    height: 0px;
+  }
+
+  .custom-logo {
+    width: auto;
+    height: 150px;
+  }
+}
+
+.business_point_widget_social li a {
+  margin-top: 15px;
+}
+
+.address {
+  font-variant: normal;
+  text-transform: uppercase;
+}
+
+.fax {
+  text-transform: uppercase;
+}

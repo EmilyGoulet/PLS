@@ -1,0 +1,68 @@
+#top-bar.top-header {
+  background-color: #f58120;
+}
+
+.main-navigation ul li a:hover {
+  color: #f58120;
+}
+
+.main-navigation ul li.current-menu-item a {
+  color: #f58120;
+}
+
+.button:hover {
+  border-color: #f58120;
+}
+
+.section-title .seperator i {
+  color: #f58120;
+}
+
+.pt-portfolio-item .pt-portfolio-text-wrap .pt-portfolio-title a {
+  color: #f58120;
+}
+
+.pt-portfolio-item .pt-portfolio-text-wrap .pt-portfolio-title {
+  color: #f58120;
+}
+
+.pt-testimonial-item .pt-testimonial-title {
+  color: #f58120;
+}
+
+.widget-title {
+  color: #f58120;
+}
+
+.button.cta-button.cta-button-primary {
+  background-color: #f58120;
+  border-color: #f58120;
+}
+
+.button.cta-button.cta-button-secondary {
+  border-color: #f58120;
+}
+
+.pt-team-item .pt-team-title {
+  color: #f58120;
+}
+
+a:hover {
+  color: #000000;
+}
+
+.services-item a {
+  color: #6e6e6e;
+}
+
+/*color of 2 arrows after "Read More" in Services section*/
+
+a.btn-continue::after {
+  color: #ffffff;
+}
+
+/*color the words "Read More" in Services section when hovered over*/
+
+a.btn-continue:hover {
+  color: #000000;
+}
